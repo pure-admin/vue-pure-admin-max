@@ -11,6 +11,7 @@
 | **功能**                         | **进度** |
 | -------------------------------- | -------- |
 | 新款菜单导航模式（左侧双栏菜单） | 已完成   |
+| 悬浮按钮功能                     | 已完成   |
 | 字典管理                         | 进行中   |
 | 多租户管理                       | 进行中   |
 
@@ -34,4 +35,10 @@
   <img alt="DoubleMenu" src="https://xiaoxian521.github.io/hyperlink/img/vue-pure-admin-max/double/4.jpg">
   <br />
   <img alt="DoubleMenu" src="https://xiaoxian521.github.io/hyperlink/img/vue-pure-admin-max/double/5.jpg">
+</p>
+
+- 悬浮按钮功能
+
+<p align="center">
+  <img alt="DoubleMenu" src="https://xiaoxian521.github.io/hyperlink/img/vue-pure-admin-max/float-button/1.jpg">
 </p>
