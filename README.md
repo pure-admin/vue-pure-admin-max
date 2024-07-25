@@ -8,12 +8,13 @@
 
 答：[vue-pure-admin-max](https://pure-admin.github.io/vue-pure-admin-max/#/login) 是在保留 [vue-pure-admin](https://github.com/pure-admin/vue-pure-admin) 所有功能的基础上再添加更多的功能，如下：
 
-| **功能**                         | **进度** |
-| -------------------------------- | -------- |
-| 新款菜单导航模式（左侧双栏菜单） | 已完成   |
-| 悬浮按钮功能                     | 已完成   |
-| 字典管理                         | 进行中   |
-| 多租户管理                       | 进行中   |
+| **功能**                           | **进度** |
+| ---------------------------------- | -------- |
+| 新款菜单导航模式（左侧双栏菜单）   | 已完成   |
+| 悬浮按钮功能                       | 已完成   |
+| 新增繁體中文、日语、韩语的内置支持 | 已完成   |
+| 字典管理                           | 进行中   |
+| 多租户管理                         | 进行中   |
 
 更多功能敬请期待！
 
@@ -41,4 +42,14 @@
 
 <p align="center">
   <img alt="DoubleMenu" src="https://xiaoxian521.github.io/hyperlink/img/vue-pure-admin-max/float-button/1.jpg">
+</p>
+
+- 新增繁體中文、日语、韩语的内置支持
+
+<p align="center">
+  <img alt="locales1" src="https://xiaoxian521.github.io/hyperlink/img/vue-pure-admin-max/locales/1.jpg">
+  <br />
+  <img alt="locales1" src="https://xiaoxian521.github.io/hyperlink/img/vue-pure-admin-max/locales/2.jpg">
+  <br />
+  <img alt="locales1" src="https://xiaoxian521.github.io/hyperlink/img/vue-pure-admin-max/locales/3.jpg">
 </p>
