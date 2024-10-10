@@ -14,7 +14,7 @@
 | 悬浮按钮功能                       | 已完成   |
 | 新增繁體中文、日语、韩语的内置支持 | 已完成   |
 | 字典管理                           | 已完成   |
-| 多租户管理                         | 进行中   |
+| 多租户管理                         | 已完成   |
 
 更多功能敬请期待！
 
@@ -54,7 +54,7 @@
   <img alt="locales1" src="https://xiaoxian521.github.io/hyperlink/img/vue-pure-admin-max/locales/3.jpg">
 </p>
 
-- 添加字典管理
+- 字典管理
 
 <p align="center">
   <img alt="locales1" src="https://xiaoxian521.github.io/hyperlink/img/vue-pure-admin-max/dict/1.jpg">
@@ -62,4 +62,16 @@
   <img alt="locales1" src="https://xiaoxian521.github.io/hyperlink/img/vue-pure-admin-max/dict/2.jpg">
   <br />
   <img alt="locales1" src="https://xiaoxian521.github.io/hyperlink/img/vue-pure-admin-max/dict/3.jpg">
+</p>
+
+- 多租户管理
+
+<p align="center">
+  <img alt="locales1" src="https://xiaoxian521.github.io/hyperlink/img/vue-pure-admin-max/tenant/1.jpg">
+  <br />
+  <img alt="locales1" src="https://xiaoxian521.github.io/hyperlink/img/vue-pure-admin-max/tenant/2.jpg">
+  <br />
+  <img alt="locales1" src="https://xiaoxian521.github.io/hyperlink/img/vue-pure-admin-max/tenant/3.jpg">
+  <br />
+  <img alt="locales1" src="https://xiaoxian521.github.io/hyperlink/img/vue-pure-admin-max/tenant/4.jpg">
 </p>
