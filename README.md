@@ -20,7 +20,7 @@
 
 - 如何拥有 `max` 版本？
 
-答：具体看 [永久解答微信群用户专属页面功能](https://pure-admin.github.io/pure-admin-doc/pages/service/#%E4%B8%93%E5%B1%9E%E9%A1%B5%E9%9D%A2%E5%8A%9F%E8%83%BD%E5%A6%82%E4%B8%8B)
+答：具体看 [max 版本](https://pure-admin.github.io/pure-admin-doc/pages/max/)
 
 ### 功能截图
 
