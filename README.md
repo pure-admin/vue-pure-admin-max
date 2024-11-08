@@ -15,6 +15,7 @@
 | 新增繁體中文、日语、韩语的内置支持 | 已完成   |
 | 字典管理                           | 已完成   |
 | 多租户管理                         | 已完成   |
+| 页头添加整体风格快捷操作按钮       | 已完成   |
 
 更多功能敬请期待！
 
@@ -74,4 +75,12 @@
   <img alt="locales1" src="https://xiaoxian521.github.io/hyperlink/img/vue-pure-admin-max/tenant/3.jpg">
   <br />
   <img alt="locales1" src="https://xiaoxian521.github.io/hyperlink/img/vue-pure-admin-max/tenant/4.jpg">
+</p>
+
+- 页头添加整体风格快捷操作按钮
+
+<p align="center">
+  <img alt="overall-style" src="https://xiaoxian521.github.io/hyperlink/img/vue-pure-admin-max/overall-style/1.jpg">
+  <br />
+  <img alt="overall-style" src="https://xiaoxian521.github.io/hyperlink/img/vue-pure-admin-max/overall-style/2.jpg">
 </p>
