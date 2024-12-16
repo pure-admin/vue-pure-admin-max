@@ -21,7 +21,7 @@
 
 - 如何拥有 `max` 版本？
 
-答：具体看 [max 版本](https://pure-admin.github.io/pure-admin-doc/pages/max/)
+答：具体看 [max 版本](https://pure-admin.cn/pages/max/)
 
 ### 功能截图
 
