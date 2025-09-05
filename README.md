@@ -16,12 +16,13 @@
 | 字典管理                           | 已完成   |
 | 多租户管理                         | 已完成   |
 | 页头添加整体风格快捷操作按钮       | 已完成   |
+| 日历排班功能                       | 已完成   |
 
 更多功能敬请期待！
 
 - 如何拥有 `max` 版本？
 
-答：具体看 [max 版本](https://pure-admin.cn/pages/max/)
+答：具体看 [max 版本](https://pure-admin.cn/pages/service/#max-%E7%89%88%E6%9C%AC)
 
 ### 功能截图
 
@@ -83,4 +84,16 @@
   <img alt="overall-style" src="https://xiaoxian521.github.io/hyperlink/img/vue-pure-admin-max/overall-style/1.jpg">
   <br />
   <img alt="overall-style" src="https://xiaoxian521.github.io/hyperlink/img/vue-pure-admin-max/overall-style/2.jpg">
+</p>
+
+- 日历排班功能
+
+<p align="center">
+  <img alt="schedule" src="https://xiaoxian521.github.io/hyperlink/img/vue-pure-admin-max/schedule/1.jpg">
+  <br />
+  <img alt="schedule" src="https://xiaoxian521.github.io/hyperlink/img/vue-pure-admin-max/schedule/2.jpg">
+   <br />
+  <img alt="schedule" src="https://xiaoxian521.github.io/hyperlink/img/vue-pure-admin-max/schedule/3.jpg">
+   <br />
+  <img alt="schedule" src="https://xiaoxian521.github.io/hyperlink/img/vue-pure-admin-max/schedule/4.jpg">
 </p>
