@@ -1,1 +1,0 @@
-import{r as e}from"./index-Bkv2hXBA.js";const s=e({label:[{required:!0,message:"字典标签为必填项",trigger:"blur"}],value:[{required:!0,message:"字典值为必填项",trigger:"blur"}]}),u=e({name:[{required:!0,message:"名称为必填项",trigger:"blur"}],code:[{required:!0,message:"编码为必填项",trigger:"blur"}]});export{u as d,s as f};
