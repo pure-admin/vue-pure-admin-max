@@ -10,12 +10,12 @@
 
 | **功能**                           | **进度** |
 | ---------------------------------- | -------- |
-| 新款菜单导航模式（左侧双栏菜单）   | 已完成   |
+| 新款菜单布局（左侧双栏菜单）       | 已完成   |
 | 悬浮按钮功能                       | 已完成   |
 | 新增繁體中文、日语、韩语的内置支持 | 已完成   |
 | 字典管理                           | 已完成   |
 | 多租户管理                         | 已完成   |
-| 页头添加整体风格快捷操作按钮       | 已完成   |
+| 页头添加主题模式快捷操作按钮       | 已完成   |
 | 日历排班功能                       | 已完成   |
 
 更多功能敬请期待！
@@ -26,7 +26,7 @@
 
 ### 功能截图
 
-- 新款菜单导航模式（左侧双栏菜单）
+- 新款菜单布局（左侧双栏菜单）
 
 <p align="center">
   <img alt="DoubleMenu" src="https://xiaoxian521.github.io/hyperlink/img/vue-pure-admin-max/double/1.jpg">
@@ -78,7 +78,7 @@
   <img alt="locales1" src="https://xiaoxian521.github.io/hyperlink/img/vue-pure-admin-max/tenant/4.jpg">
 </p>
 
-- 页头添加整体风格快捷操作按钮
+- 页头添加主题模式快捷操作按钮
 
 <p align="center">
   <img alt="overall-style" src="https://xiaoxian521.github.io/hyperlink/img/vue-pure-admin-max/overall-style/1.jpg">
