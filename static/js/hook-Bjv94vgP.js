@@ -1,0 +1,1 @@
+import{t as e}from"./hook-hnJ1ChMT.js";export{e as useTenantList};

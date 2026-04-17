@@ -1,0 +1,1 @@
+import{t as e}from"./columns-C-EqMxaz.js";export{e as useColumns};

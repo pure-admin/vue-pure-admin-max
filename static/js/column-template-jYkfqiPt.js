@@ -1,0 +1,1 @@
+import{t as e}from"./column-template-RPMuuy2r.js";export{e as default};

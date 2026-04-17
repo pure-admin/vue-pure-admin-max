@@ -1,0 +1,1 @@
+import{t as e}from"./hook-DuH2KXKW.js";export{e as useRole};

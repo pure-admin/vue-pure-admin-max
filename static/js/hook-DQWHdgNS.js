@@ -1,0 +1,1 @@
+import{t as e}from"./hook-C7c99DvS.js";export{e as useTenantPackage};

@@ -1,0 +1,1 @@
+import{t as e}from"./hook-BasLo32g.js";export{e as useRole};

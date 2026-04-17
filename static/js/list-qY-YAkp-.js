@@ -1,0 +1,1 @@
+import{t as e}from"./list-Di6nLDYN.js";export{e as list};

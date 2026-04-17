@@ -1,0 +1,1 @@
+import{t as e}from"./list-Dn3LtIXv.js";export{e as list};

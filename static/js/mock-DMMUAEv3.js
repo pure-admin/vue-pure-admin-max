@@ -1,0 +1,1 @@
+import{_ as e}from"./router-B0X7137s.js";var t=t=>e.request(`get`,`/get-map-info`,{params:t}),n=t=>e.request(`post`,`https://pureadmin.free.beeceptor.com/images`,{data:t},{headers:{"Content-Type":`multipart/form-data`}});export{t as n,n as t};

@@ -1,0 +1,1 @@
+import{t as e}from"./columns-BKCExXio.js";export{e as useColumns};

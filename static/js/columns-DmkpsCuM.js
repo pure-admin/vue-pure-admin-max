@@ -1,0 +1,1 @@
+import{t as e}from"./columns-D4yUpBiN.js";export{e as useColumns};

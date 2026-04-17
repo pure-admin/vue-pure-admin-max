@@ -1,0 +1,1 @@
+import{t as e}from"./list-CMfW9nas.js";export{e as list};

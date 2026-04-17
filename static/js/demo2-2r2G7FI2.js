@@ -1,0 +1,1 @@
+import{t as e}from"./demo2-DD-l-oON.js";export{e as default};

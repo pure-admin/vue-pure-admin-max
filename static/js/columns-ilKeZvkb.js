@@ -1,0 +1,1 @@
+import{t as e}from"./columns-Cyp2U_ef.js";export{e as useColumns};

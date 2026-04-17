@@ -1,0 +1,1 @@
+import{t as e}from"./LoginRegist-DGBoVWiN.js";export{e as default};

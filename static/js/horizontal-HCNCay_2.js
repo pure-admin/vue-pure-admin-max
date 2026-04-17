@@ -1,0 +1,1 @@
+import{t as e}from"./horizontal-BYBafL9Z.js";export{e as default};

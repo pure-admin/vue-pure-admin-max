@@ -1,0 +1,1 @@
+import{t as e}from"./columns-DImtf4ts.js";export{e as useColumns};

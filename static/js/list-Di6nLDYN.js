@@ -1,0 +1,1 @@
+import{t as e}from"./demo1-D7E31-fU.js";import{t}from"./demo2-DD-l-oON.js";import{t as n}from"./demo3-Db5BT4Xs.js";var r=e=>`代码位置：src/views/table/edit/${e}/index.vue`,i=[{key:`demo1`,content:r(`demo1`),title:`整体编辑`,component:e},{key:`demo2`,content:r(`demo2`),title:`单行编辑`,component:t},{key:`demo3`,content:r(`demo3`),title:`单元格编辑`,component:n}];export{i as t};

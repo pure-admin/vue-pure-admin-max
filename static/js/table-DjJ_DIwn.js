@@ -1,0 +1,1 @@
+import{t as e}from"./table-CupTP2ix.js";export{e as default};

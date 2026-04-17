@@ -1,0 +1,1 @@
+import{A as e,N as t}from"./vue.runtime.esm-bundler-Dc831wUa.js";import{n,t as r}from"./objectSpread2-ztCbf0Xg.js";import{Dt as i}from"./es-CRlx7b8e.js";n();var a=e({name:`ReCol`,props:{value:{type:Number,default:24}},render(){let e=this.$attrs,n=this.value;return t(i,r({xs:n,sm:n,md:n,lg:n,xl:n},e),{default:()=>this.$slots.default()})}});export{a as t};

@@ -1,0 +1,1 @@
+import{t as e}from"./vertical-DvBBYMFo.js";export{e as default};

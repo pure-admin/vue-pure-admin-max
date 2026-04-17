@@ -1,0 +1,1 @@
+import{t as e}from"./header-renderer-YhSlQraY.js";export{e as default};

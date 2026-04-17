@@ -1,0 +1,1 @@
+import{t as e}from"./columns-ZbityJTj.js";export{e as useColumns};

@@ -1,0 +1,1 @@
+import{t as e}from"./hook-DNHKk-5a.js";export{e as useUser};
